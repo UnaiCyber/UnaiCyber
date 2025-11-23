@@ -12,7 +12,7 @@ UnaiCyber
 <h2 style="color:#00FF99;">Proyectos</h2>
 <table>
   <tr>
-    <td><a href="https://github.com/UnaiCyber/htb-writeups"><b>Hack The Box Writeups</b></a></td>
+    <td><a href="https://github.com/UnaiCyber/htb-writeups"><b>HackTheBox Writeups</b></a></td>
     <td>Resolución y documentación de máquinas y retos de HTB</td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@ UnaiCyber
     <td>Writeups de salas prácticas de TryHackMe</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/UnaiCyber/thehackerlabs-writeups"><b>The Hacker Labs Writeups</b></a></td>
+    <td><a href="https://github.com/UnaiCyber/thehackerlabs-writeups"><b>The HackerLabs Writeups</b></a></td>
     <td>Documentación de CTFs y laboratorios de The HackerLabs</td>
   </tr>
 </table>
