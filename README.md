@@ -3,7 +3,7 @@ UnaiCyber
 </h1>
 <p align="center">
   <a href="https://github.com/UnaiCyber" style="margin:0 10px;">GitHub</a> • 
-  <a href="https://linkedin.com/in/tuusuario" style="margin:0 10px;">LinkedIn</a> • 
+  <a href="www.linkedin.com/in/unai-fanjul-ruiz-" style="margin:0 10px;">LinkedIn</a> • 
   <a href="https://tryhackme.com/p/UnaiCyber" style="margin:0 10px;">TryHackMe</a>
 </p>
 
@@ -35,6 +35,6 @@ UnaiCyber
 
 <h2 style="color:#00FF99;">Contacto</h2>
 <ul>
-  <li><a href="https://linkedin.com/in/tuusuario">LinkedIn</a></li>
+  <li><a href="www.linkedin.com/in/unai-fanjul-ruiz-">LinkedIn</a></li>
   <li><a href="mailto:tuemail@ejemplo.com">Correo electrónico</a></li>
 </ul>
