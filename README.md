@@ -36,5 +36,4 @@ UnaiCyber
 <h2 style="color:#00FF99;">Contacto</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/unai-fanjul-ruiz-">LinkedIn</a></li>
-  <li><a href="mailto:tuemail@ejemplo.com">Correo electrónico</a></li>
 </ul>
