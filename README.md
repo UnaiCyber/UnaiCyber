@@ -16,7 +16,7 @@ UnaiCyber
     <td>Resolución y documentación de máquinas y retos de HTB</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/UnaiCyber/tryhackme-labs"><b>TryHackMe Writeups</b></a></td>
+    <td><a href="https://github.com/UnaiCyber/tryhackme-writeups"><b>TryHackMe Writeups</b></a></td>
     <td>Writeups de salas prácticas de TryHackMe</td>
   </tr>
   <tr>
