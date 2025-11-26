@@ -5,7 +5,6 @@ UnaiCyber
   <a href="https://github.com/UnaiCyber" style="margin:0 10px;">GitHub</a> • 
   <a href="https://www.linkedin.com/in/unai-fanjul-ruiz-" style="margin:0 10px;">LinkedIn</a> • 
   <a href="https://tryhackme.com/p/UnaiCyber" style="margin:0 10px;">TryHackMe</a>
-  <img src="https://media.giphy.com/media/xUOwGcv3x7bU3VxjEA/giphy.gif" width="50" />
 </p>
 
 <hr style="border:1px solid #444;"/>
