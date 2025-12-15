@@ -32,5 +32,4 @@ UnaiCyber
   <code>Linux</code> <code>Windows</code> <code>Docker</code> <code>VirtualBox</code>
 </p>
 
-<h2 style="color:#00FF99;">Contacto</h2>
 
